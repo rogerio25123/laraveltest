@@ -8,10 +8,10 @@ $ cd laraveltest
 # Instale as dependências
 $ composer install
 
-# Instale as dependências
+# gerar key
 $ php artisan key:generate
 
-# Instale as dependências
+# Instale as tabelas
 $ php artisan migrate
 
 # Execute a aplicação em modo de desenvolvimento
