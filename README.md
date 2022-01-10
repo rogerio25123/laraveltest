@@ -8,5 +8,8 @@ $ cd laraveltest
 # Instale as dependências
 $ composer install
 
+# Instale as dependências
+$ php artisan migrate
+
 # Execute a aplicação em modo de desenvolvimento
 $ php artisan serve
